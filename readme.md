@@ -2,7 +2,7 @@
 
 ## ejercicio 1
 
-[ir al ejercicio](https://github.com/Hidel57/ejercicios-web/pregunta1)
+[ir al ejercicio](https://https://github.com/Hidel57/ejercicios-web/tree/main/pregunta1)
 
 Realizar la siguiente página llamada index.html
 
@@ -10,7 +10,7 @@ Realizar la siguiente página llamada index.html
 
 ## ejercicio 2
 
-[ir al ejercicio](https://github.com/Hidel57/ejercicios-web/pregunta2)
+[ir al ejercicio](https://https://github.com/Hidel57/ejercicios-web/tree/main/pregunta2)
 
 Programa en PHP llamarle pregunta2 que solicite mediante formulario por GET  el valor de  n (del 1 al 12) que llame a la página mes.php recupere el valor introducido y en base a ese al valor introducido muestre una lista de selección con los meses del año mostrando seleccionado el mes seleccionado. ejemplo para n=4
 
@@ -27,7 +27,7 @@ Solicitar mediante formularios filas y columnas  luego llamar a la página tabla
 
 ### ejemplo 2
 
-[ir al ejercicio](https://github.com/Hidel57/ejercicios-web/pregunta3)
+[ir al ejercicio](https://https://github.com/Hidel57/ejercicios-web/tree/main/pregunta3)
 
 solicitar mediante formularios filas y columnas  luego llamar a la página tablaintercalado.php que imprime la tabla con los valores con la cantidad de filas  y columnas introducidas pero con colores intercalados entre múltiplos de tres con los colores rojo, amarillo y verde Ej: para 5 filas y 2 columnas.(utilizar css con clases) 
  
@@ -52,6 +52,6 @@ Crear  un programa  en php que solicite un numero mediante formularios y llame a
 
 ### ejemplo 2
 
-[ir al ejercicio](https://github.com/Hidel57/ejercicios-web/pregunta5)
+[ir al ejercicio](https://https://github.com/Hidel57/ejercicios-web/tree/main/pregunta5)
 
 Crear la clase operaciones con los atributos ay b que deben ser inicializados en el constructor, y las operaciones suma, resta, multiplicación y división, luego a través de un menú con las opciones llenar ay b,sumar,restar,multiplicar,dividir permita que el usuario selecciónela opción y muestre el resultado 
